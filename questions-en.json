@@ -60,5 +60,7 @@
   { "id": "q_0102", "content": "A rumor you spread", "onboardingOrder": null },
   { "id": "q_0103", "content": "A time you genuinely felt in danger", "onboardingOrder": null },
   { "id": "q_0104", "content": "Someone whose vibe made you really uncomfortable", "onboardingOrder": null },
-  { "id": "q_0105", "content": "Something you did that got you detention at school", "onboardingOrder": null }
+  { "id": "q_0105", "content": "Something you did that got you detention at school", "onboardingOrder": null },
+  { "id": "q_0105", "content": "Your first pet and the first time you saw it", "onboardingOrder": null }
+
 ]
